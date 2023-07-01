@@ -11,5 +11,10 @@ public class Main {
 
         int jjj = 3;
         int kk = 0;
+
+        int j = 0;
+        int jjjjjj = 0;
+
+        int sjsjj = 0;
     }
 }
