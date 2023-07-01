@@ -9,12 +9,6 @@ public class Main {
         // Press Shift+F10 or click the green arrow button in the gutter to run the code
 
 
-        int jjj = 3;
-        int kk = 0;
 
-        int j = 0;
-        int jjjjjj = 0;
-
-        int sjsjj = 0;
     }
 }
