@@ -6,11 +6,10 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!\n");
 
-        // Press Shift+F10 or click the green arrow button in the gutter to run the code.
-        int i = 1;
-        int j = 2;
+        // Press Shift+F10 or click the green arrow button in the gutter to run the code
 
 
         int jjj = 3;
+        int kk = 0;
     }
 }
