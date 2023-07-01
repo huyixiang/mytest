@@ -13,5 +13,7 @@ public class Main {
         int kk = 0;
 
         int sd = 0;
+
+        int sd2 = 0;
     }
 }
